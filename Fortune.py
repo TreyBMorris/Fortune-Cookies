@@ -14,3 +14,6 @@ n = random.randint(0,99)
 
 read_fortune(n)
 lucky_numbers()
+
+
+
